@@ -7,7 +7,7 @@ This is a simple bit of js that will allow you to inject a background image into
 1. Copy the code from js/main.js
 2. Add to Chrome's bookmark under URL
 3. Name the bookmark to be whatever you like
-4. Save
+4. Click "Save"
 
 ## Note
 
